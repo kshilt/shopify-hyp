@@ -6,9 +6,91 @@
         "padding_top": 28,
         "padding_bottom": 28
       }
+    },
+    "c59d9ba0-ab60-456b-be10-b9c1479cb8f3": {
+      "type": "collapsible-content",
+      "blocks": {
+        "template--19564199149861__c59d9ba0-ab60-456b-be10-b9c1479cb8f3-16878971752205bcae-0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What is Hypochlorous Acid?",
+            "icon": "none",
+            "row_content": "<p>Hypochlorous acid (aka HOCI) might sound unfamiliar, but it's nothing new. This product's superpower can be found in your body.<\/p><p>HOCI is your body's defense against germs. It's produced by white blood cells to break down bacteria, viruses, and other microorganisms that threaten your skin. Spiritizing this baby on your face supercharges your skin's natural defenses.<\/p>",
+            "page": ""
+          }
+        },
+        "template--19564199149861__c59d9ba0-ab60-456b-be10-b9c1479cb8f3-16878971752205bcae-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What are the Main Benefits of HYP?",
+            "icon": "none",
+            "row_content": "<p>HYP Skin improves skin hydration, helps zap away acne, reduces redness, repairs skin damage and impurities, and kills harmful bacteria.<\/p>",
+            "page": ""
+          }
+        },
+        "template--19564199149861__c59d9ba0-ab60-456b-be10-b9c1479cb8f3-16878971752205bcae-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Is Hypochlorous Acid Safe?",
+            "icon": "none",
+            "row_content": "<p>Yes. Your body actually creates HOCI to repair, damage, and fight bacteria. HYP bottles up this magic to amplify your natural healing powers. This product's stellar for all skin types, including extra-sensitive skin.<\/p>",
+            "page": ""
+          }
+        },
+        "template--19564199149861__c59d9ba0-ab60-456b-be10-b9c1479cb8f3-16878971752205bcae-3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "I'm Ready to Add This to My Skincare Routine! But How?",
+            "icon": "none",
+            "row_content": "<p>We recommend this as an upgrade to your toner. Close your eyes, mist HYP on your face, and let the bliss sink in.<\/p>",
+            "page": ""
+          }
+        },
+        "bbd0c302-9b16-49b8-93f7-9a298bb72dab": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Can I Ship it Outside the US?",
+            "icon": "none",
+            "row_content": "<p>Right now, we're only available in the U.S. In the future... who knows where we'll land.<\/p>",
+            "page": ""
+          }
+        },
+        "25b217e7-4038-48a3-ba1c-355b594879fa": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "I Want to Take it Everywhere. Is it Airport Friendly?",
+            "icon": "none",
+            "row_content": "<p>Our 2 oz bottle is TSA-approved, so you can get that glow wherever you go.<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--19564199149861__c59d9ba0-ab60-456b-be10-b9c1479cb8f3-16878971752205bcae-0",
+        "template--19564199149861__c59d9ba0-ab60-456b-be10-b9c1479cb8f3-16878971752205bcae-1",
+        "template--19564199149861__c59d9ba0-ab60-456b-be10-b9c1479cb8f3-16878971752205bcae-2",
+        "template--19564199149861__c59d9ba0-ab60-456b-be10-b9c1479cb8f3-16878971752205bcae-3",
+        "bbd0c302-9b16-49b8-93f7-9a298bb72dab",
+        "25b217e7-4038-48a3-ba1c-355b594879fa"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "We thought you might ask that",
+        "heading_size": "h1",
+        "heading_alignment": "left",
+        "layout": "none",
+        "color_scheme": "",
+        "container_color_scheme": "",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "c59d9ba0-ab60-456b-be10-b9c1479cb8f3"
   ]
 }
