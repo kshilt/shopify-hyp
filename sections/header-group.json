@@ -33,6 +33,9 @@
       "block_order": [
         "announcement-bar-0"
       ],
+      "custom_css": [
+
+      ],
       "settings": {
         "color_scheme": "background-3",
         "show_line_separator": true,
