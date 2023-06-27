@@ -148,7 +148,7 @@
       },
       "background-2": {
         "settings": {
-          "background": "#f3f3f3",
+          "background": "#000000",
           "background_gradient": "",
           "text": "#ffffff",
           "button": "#121212",

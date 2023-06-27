@@ -5,8 +5,7 @@
     "header": {
       "type": "header",
       "custom_css": [
-        "header {background-color: black;}",
-        "text {color: white;}"
+
       ],
       "settings": {
         "logo_position": "middle-left",
