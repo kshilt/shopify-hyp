@@ -2,6 +2,9 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "custom_css": [
+        "h1 {color: #d40f7d;}"
+      ],
       "settings": {
         "padding_top": 28,
         "padding_bottom": 28
@@ -75,7 +78,7 @@
       ],
       "settings": {
         "caption": "",
-        "heading": "We thought you might ask that",
+        "heading": "We thought you might ask that{{ page.title }}",
         "heading_size": "h1",
         "heading_alignment": "left",
         "layout": "none",
